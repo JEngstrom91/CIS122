@@ -1,0 +1,9 @@
+List your functions here, with a small description
+E.g.
+
+player_hand_total
+  This will be the current player hand total, to be compared to the dealer and to 21
+
+dealer_hand_total
+  This will be the current dealer hand total, to be compared to the player's hand, and to 21. If 21, auto win.
+
